@@ -1,6 +1,7 @@
  # 📝 README Generator 💻
 
 
+
 Welcome to **README Generator**! 🌐🎨
 
 **What's this?** 🤔✨
@@ -18,7 +19,7 @@ A command-line tool that magically generates structured README.md files using th
 🌟✨ Follow these easy steps to set up the README Generator:  
 
 1. **Install Python (if not installed)** 🐍  
-   - Download and install Python from (https://www.python.org/downloads/)  or run pip install
+   - Download and install Python from [python.org](https://www.python.org/downloads/)  or run pip install
 
 2. **Clone this repository** 📂  
    - `git clone https://github.com/ProNikhilbro007/README-Generator.git`  
@@ -28,7 +29,7 @@ A command-line tool that magically generates structured README.md files using th
    - `pip install -r requirements.txt`  
 
 4. **Install and run Ollama** 🤖  
-   - Download **Ollama** from (https://ollama.ai)  or run curl -fsSL https://ollama.com/install.sh | sh
+   - Download **Ollama** from [ollama.ai](https://ollama.ai)  or run curl -fsSL https://ollama.com/install.sh | sh
    - Start the Ollama server: `ollama serve &`  
    - Pull the required AI model (e.g., Mistral or Gemma): `ollama pull mistral`  
 
@@ -40,9 +41,6 @@ A command-line tool that magically generates structured README.md files using th
 
 
 **Contributing & Issues** 💬✨
-For any questions, issues or suggestions, please [open an issue](https://github.com/[username]/readme-generator/issues) on our GitHub page. We're always open to feedback and improvement ideas!
+For any questions, issues or suggestions, please  or email me Email:nikhilkumar722010@gmailcom. This Project is made by only 1 person. So please give your feedbacksIt motivates a lot and also give suggestions if you have any. We're always open to feedback and improvement ideas!
 
-**License** 📜✨
-MIT License
-
-**Made with 💖 by [Your Name]** 💖✨
+**Made with 💖 by ProNikhilbro007** 💖✨
