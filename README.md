@@ -1,7 +1,5 @@
  # 📝 README Generator 💻
 
-
-
 Welcome to **README Generator**! 🌐🎨
 
 **What's this?** 🤔✨
@@ -19,7 +17,7 @@ A command-line tool that magically generates structured README.md files using th
 🌟✨ Follow these easy steps to set up the README Generator:  
 
 1. **Install Python (if not installed)** 🐍  
-   - Download and install Python from [python.org](https://www.python.org/downloads/)  or run pip install
+   - Download and install Python from [python.org](https://www.python.org/downloads/)  or run "pip install"
 
 2. **Clone this repository** 📂  
    - `git clone https://github.com/ProNikhilbro007/README-Generator.git`  
@@ -29,7 +27,7 @@ A command-line tool that magically generates structured README.md files using th
    - `pip install -r requirements.txt`  
 
 4. **Install and run Ollama** 🤖  
-   - Download **Ollama** from [ollama.ai](https://ollama.ai)  or run curl -fsSL https://ollama.com/install.sh | sh
+   - Download **Ollama** from [ollama.ai](https://ollama.ai)  or run "curl -fsSL https://ollama.com/install.sh | sh"
    - Start the Ollama server: `ollama serve &`  
    - Pull the required AI model (e.g., Mistral or Gemma): `ollama pull mistral`  
 
