@@ -41,4 +41,6 @@ A command-line tool that magically generates structured README.md files using th
 **Contributing & Issues** 💬✨
 For any questions, issues or suggestions, please  or email me Email:nikhilkumar722010@gmailcom. This Project is made by only 1 person. So please give your feedbacksIt motivates a lot and also give suggestions if you have any. We're always open to feedback and improvement ideas!
 
+**This README is an example of this project**
+
 **Made with 💖 by ProNikhilbro007** 💖✨
